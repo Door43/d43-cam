@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cam:home|Door43 (cam)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cam|d43-cam repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cam/archive/master.zip|d43-cam.zip]]
+
+**Recent Changes**
+{{changes>ns = cam}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cam|Ethnologue data]]
+
